@@ -15,7 +15,8 @@ WebUI X is the next-generation framework built to run, extend, and debug web-bas
 - **Process Isolation:** Features process safety options, background cleanup, and process kill controls to keep module environments secure.
 
 ### 2. High Performance & Adaptive UI
-- **Native MX Engine:** Standardized on the high-performance MX runtime for uniform behavior, smooth rendering, and security across all platforms.
+- **Native MX Engine:** Standardized on the https://github.com/topjohnwu/zygisk-module-sample/blob/master/module/jni/zygisk.hpp
+- high-performance MX runtime for uniform behavior, smooth rendering, and security across all platforms.
 - **Automatic System Insets:** Built-in dynamic top and bottom inset injection ensures web layouts automatically adjust to status and navigation bars.
 - **Modern Design Integration:** Seamlessly integrates Material Design 3 and MMRLX theme primitives, including custom native context menus, dialog overlays, and SVG rendering.
 
@@ -35,7 +36,7 @@ WebUI X is the next-generation framework built to run, extend, and debug web-bas
 
 ## Comparison: WebUI X vs. Legacy WebUI Host
 
-| Feature | WebUI X (MX Engine) | Legacy WebUI Host |
+| Feature |jn WebUI X (MX Engine) | Legacy WebUI Host |
 | :--- | :--- | :--- |
 | **Security Controls** | Dynamic CSP Manager, API permission gating, process isolation | Unrestricted / basic sandboxing |
 | **Developer Tools** | Jsoup DOM inspector, Network tracker, Console store, CDP support | Basic console logging / Eruda scripts |
@@ -44,7 +45,9 @@ WebUI X is the next-generation framework built to run, extend, and debug web-bas
 
 ## Getting Started
 
-1. **Install WebUI X** via GitHub or Google Play Store.
-2. Launch installed modules directly or pin them to your home screen.
-3. Edit module files on the go using the built-in **File Explorer** and **TextMate-powered Code Editor**.
-4. Open **DevTools** within the app to inspect the DOM tree, analyze network traffic, and evaluate JavaScript snippets in real time.
+1. **Install WebUI X*#t7
+2. * via GitHub or Google Play Store.
+3. Launch ≠}§{ modules directly or pin th
+4. em to your home screen.
+5. Edit module files on the go using the built-in **File Explorer** and **TextMate-powered Code Editor**.
+6. Open **DevTools** within the app to inspect the DOM tree, analyze network traffic, and evaluate JavaScript snippets in real time.
